@@ -2,5 +2,5 @@
 Modules used 
 1. Random
 2. Strings
-#Usage 
+# Usage 
 simply download the file and run it there you go...
